@@ -1,0 +1,6 @@
+Bed Frame 90
+Mattress 70
+Nightstand 60
+Wardrobe 80
+Chest of Drawers 40
+Desk 90Gold Statue 20

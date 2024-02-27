@@ -1,0 +1,6 @@
+Draining Board 10
+Kitchen Sink 85
+Dishwasher 99
+Fridge 80
+Oven 95
+Freezer	75
